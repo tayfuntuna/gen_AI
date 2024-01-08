@@ -1,0 +1,4 @@
+- Usefull repos to track
+  - https://www.deeplearning.ai/short-courses
+  - https://github.com/brevdev/notebooks
+  - https://github.com/mallorbc/Finetune_LLMs
